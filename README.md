@@ -211,7 +211,6 @@ If you use this code or model in your research, please cite the original paper:
 For questions or technical support, contact:
 - Corresponding Authors:
   - Qiang He: qh2020@jhun.edu.cn
-  - Xia Gong: gongxiafeng@163.com
 - GitHub Issues: Submit questions via the [Issues](https://github.com/JHUNyizheng/Infantile-vascular-diseases-classification-based-on-ultrasound-images/issues) tab.
 
 ## License
